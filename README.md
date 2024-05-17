@@ -7,3 +7,6 @@ Install this library before run the program
 4. pip install pandas
 5. pip install keras
 6. pip install scikit-learn
+
+Run project with these following command:
+```python emotion_detection.py```
